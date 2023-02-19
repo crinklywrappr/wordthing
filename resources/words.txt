@@ -1,0 +1,2124 @@
+about #{"preposition" "adjective" "adverb"}
+after #{"conjunction" "preposition" "adjective" "adverb"}
+again #{"preposition" "adverb"}
+air #{"verb" "noun"}
+all #{"conjunction" "adjective" "adverb" "pronoun" "noun"}
+along #{"preposition" "adverb"}
+also #{"adverb"}
+an #{"conjunction" "preposition" "noun" "numeral"}
+and #{"conjunction" "verb" "noun"}
+another #{"pronoun"}
+any #{"adverb" "pronoun"}
+are #{"noun"}
+around #{"preposition" "adjective" "adverb"}
+as #{"conjunction" "preposition" "adverb" "noun"}
+at #{"preposition" "pronoun" "verb" "noun"}
+away #{"adjective" "adverb" "verb" "interjection"}
+back #{"adjective" "adverb" "verb" "noun"}
+be #{}
+because #{"conjunction" "preposition" "adverb"}
+been #{"noun"}
+before #{"conjunction" "preposition" "adverb"}
+below #{"preposition" "adverb"}
+between #{"preposition" "noun"}
+both #{"conjunction" "pronoun"}
+but #{"conjunction" "preposition" "adverb" "verb" "noun"}
+by #{"preposition" "adjective" "adverb" "interjection" "noun"}
+came #{"preposition" "verb" "noun"}
+can #{"verb" "noun"}
+come #{"preposition" "verb" "interjection" "noun"}
+could #{"verb" "noun"}
+day #{"verb" "noun"}
+did #{"verb"}
+different #{"adjective" "adverb" "noun"}
+do #{"adverb" "verb" "noun"}
+does #{"verb" "noun"}
+don't #{"interjection" "noun"}
+down #{"preposition" "adjective" "adverb" "verb" "noun"}
+each #{"adverb" "pronoun" "noun"}
+end #{"verb" "noun"}
+even #{"adjective" "adverb" "verb" "noun"}
+every #{}
+few #{"pronoun"}
+find #{"verb" "noun"}
+first #{"adjective" "adverb" "noun"}
+for #{}
+found #{"verb" "noun"}
+from #{"preposition"}
+get #{"verb" "noun"}
+give #{"verb" "noun"}
+go #{"adjective" "verb" "noun"}
+good #{"adjective" "adverb" "verb" "interjection" "noun"}
+great #{"adjective" "adverb" "interjection" "noun"}
+had #{"verb"}
+has #{"verb"}
+have #{"verb" "noun"}
+he #{"pronoun" "interjection" "noun"}
+help #{"verb" "interjection" "noun"}
+her #{"pronoun" "noun"}
+here #{"adjective" "adverb" "interjection" "noun"}
+him #{"pronoun" "noun"}
+his #{"pronoun" "noun"}
+home #{"adjective" "adverb" "verb" "noun"}
+house #{"verb" "noun"}
+how #{"conjunction" "adverb" "interjection" "noun"}
+I #{"pronoun" "noun"}
+if #{"conjunction" "noun"}
+in #{"preposition" "adjective" "adverb" "verb" "noun"}
+into #{"preposition"}
+is #{}
+it #{"adjective" "pronoun" "noun" "proper noun"}
+its #{"pronoun" "noun"}
+just #{"adjective" "adverb" "verb" "interjection" "noun"}
+know #{"verb" "noun"}
+large #{"adjective" "adverb" "noun"}
+last #{"adjective" "adverb" "verb" "noun"}
+left #{"adjective" "adverb" "verb" "noun"}
+like #{"conjunction" "preposition" "adjective" "adverb" "verb" "interjection" "noun"}
+line #{"verb" "noun"}
+little #{"adjective" "adverb" "pronoun" "noun"}
+long #{"adjective" "adverb" "verb" "noun"}
+look #{}
+made #{"verb" "noun"}
+make #{"verb" "noun"}
+man #{"verb" "interjection" "noun"}
+many #{"adjective" "pronoun" "noun"}
+may #{"verb" "noun"}
+me #{"pronoun"}
+men #{"noun"}
+might #{"adjective" "verb" "noun"}
+more #{"adverb" "pronoun" "verb" "noun"}
+most #{"adverb" "pronoun" "noun"}
+Mr. #{}
+must #{"verb" "noun"}
+my #{"interjection"}
+name #{"verb" "noun"}
+never #{"adverb"}
+new #{"adjective" "adverb" "verb" "noun"}
+next #{"preposition" "adjective" "adverb" "noun"}
+no #{"preposition" "adverb" "noun"}
+not #{"conjunction" "adverb" "interjection" "noun"}
+now #{"conjunction" "adjective" "adverb" "interjection" "noun"}
+number #{"adjective" "verb" "noun"}
+of #{"preposition" "verb"}
+off #{"preposition" "adjective" "adverb" "verb" "noun"}
+old #{"adjective" "noun"}
+on #{"preposition" "adjective" "adverb" "verb" "noun"}
+one #{"adjective" "pronoun" "verb" "noun" "numeral"}
+only #{"conjunction" "adjective" "adverb" "noun"}
+or #{"conjunction" "preposition" "adjective" "adverb" "noun"}
+other #{"adjective" "adverb" "verb" "noun"}
+our #{}
+out #{"preposition" "adjective" "adverb" "verb" "interjection" "noun"}
+over #{"preposition" "adjective" "adverb" "verb" "interjection" "noun"}
+own #{"adjective" "verb"}
+part #{"adjective" "adverb" "verb" "noun"}
+people #{"verb" "noun"}
+place #{"verb" "noun"}
+put #{"verb" "noun"}
+read #{"verb" "noun"}
+right #{"adjective" "adverb" "verb" "interjection" "noun"}
+said #{"adjective" "verb"}
+same #{"adjective" "adverb" "pronoun" "interjection"}
+saw #{"verb" "interjection" "noun"}
+say #{"adverb" "verb" "interjection" "noun"}
+see #{"verb" "interjection" "noun"}
+she #{"pronoun" "noun"}
+should #{"verb" "noun"}
+show #{"verb" "noun"}
+small #{"adjective" "adverb" "verb" "noun"}
+so #{"conjunction" "adjective" "adverb" "pronoun" "interjection" "noun"}
+some #{"adverb" "pronoun"}
+something #{"adjective" "adverb" "pronoun" "verb" "noun"}
+sound #{"adjective" "adverb" "verb" "interjection" "noun"}
+still #{"adjective" "adverb" "verb" "noun"}
+such #{"pronoun" "noun"}
+take #{"verb" "noun"}
+tell #{"verb" "noun"}
+than #{"conjunction" "preposition" "adverb"}
+that #{"conjunction" "adverb" "pronoun" "noun"}
+the #{"preposition" "adverb"}
+them #{"pronoun"}
+then #{"conjunction" "adjective" "adverb" "noun"}
+there #{"adverb" "pronoun" "interjection" "noun"}
+these #{"pronoun"}
+they #{"pronoun"}
+thing #{"verb" "noun"}
+think #{"verb" "noun"}
+this #{"adverb" "pronoun" "interjection" "noun"}
+those #{"pronoun"}
+thought #{"verb" "noun"}
+three #{"noun" "numeral"}
+through #{"preposition" "adjective" "adverb" "noun"}
+time #{"verb" "interjection" "noun"}
+to #{"preposition" "adverb"}
+together #{"adjective" "adverb"}
+too #{"adverb"}
+two #{"noun" "numeral"}
+under #{"preposition" "adjective" "adverb"}
+up #{"preposition" "adjective" "adverb" "verb" "noun"}
+us #{"pronoun"}
+use #{"verb" "noun"}
+very #{"adjective" "adverb"}
+want #{"verb" "noun"}
+water #{"verb" "noun"}
+way #{"adverb" "verb" "interjection" "noun"}
+we #{"pronoun"}
+well #{"adjective" "adverb" "verb" "interjection" "noun"}
+went #{"verb" "noun"}
+were #{"noun"}
+what #{"adverb" "pronoun" "interjection" "noun"}
+when #{"conjunction" "adverb" "pronoun" "interjection" "noun"}
+where #{"conjunction" "adverb" "pronoun" "noun"}
+which #{"pronoun"}
+while #{"conjunction" "preposition" "verb" "noun"}
+who #{"pronoun" "noun"}
+why #{"adverb" "interjection" "noun"}
+will #{"verb" "noun"}
+with #{"preposition" "adverb" "noun"}
+word #{"verb" "interjection" "noun"}
+work #{"verb" "noun"}
+world #{"verb" "noun"}
+would #{"noun"}
+write #{"verb" "noun"}
+year #{"noun"}
+you #{"pronoun" "verb"}
+your #{}
+was #{}
+able #{"adjective" "verb" "noun"}
+above #{"preposition" "adjective" "adverb" "noun"}
+across #{"preposition" "adverb" "noun"}
+add #{"verb" "noun"}
+against #{"conjunction" "preposition"}
+ago #{"adjective" "adverb"}
+almost #{"adverb" "noun"}
+among #{"preposition"}
+animal #{"adjective" "noun"}
+answer #{"verb" "noun"}
+became #{"verb"}
+become #{"verb"}
+began #{"verb"}
+behind #{"preposition" "adverb" "noun"}
+being #{"conjunction" "noun"}
+better #{"adjective" "adverb" "verb" "noun"}
+black #{"adjective" "verb" "noun"}
+best #{"adjective" "adverb" "verb" "noun"}
+body #{"verb" "noun"}
+book #{"verb" "noun"}
+boy #{"verb" "interjection" "noun"}
+brought #{"verb"}
+call #{"verb" "noun"}
+cannot #{"verb" "noun"}
+car #{"noun"}
+certain #{"adjective" "pronoun" "noun"}
+change #{"verb" "noun"}
+children #{"noun"}
+city #{"noun"}
+close #{"adjective" "verb" "noun"}
+cold #{"adjective" "adverb" "noun"}
+country #{"adjective" "noun"}
+course #{"adverb" "verb" "noun"}
+cut #{"adjective" "verb" "noun"}
+didn't #{}
+dog #{"verb" "noun"}
+done #{"adjective" "verb" "noun"}
+door #{"verb" "noun"}
+draw #{"verb" "noun"}
+during #{"preposition" "verb"}
+early #{"adjective" "adverb" "noun"}
+earth #{"verb" "noun" "proper noun"}
+eat #{"verb" "noun"}
+enough #{"adverb" "pronoun" "interjection"}
+ever #{"adjective" "adverb"}
+example #{"verb" "noun"}
+eye #{"verb" "noun"}
+face #{"verb" "noun"}
+family #{"adjective" "noun"}
+far #{"adjective" "adverb" "noun"}
+father #{"verb" "noun"}
+feel #{"adjective" "adverb" "pronoun" "verb" "noun"}
+feet #{"noun"}
+fire #{"adjective" "verb" "noun"}
+fish #{"verb" "noun"}
+five #{"noun" "numeral"}
+food #{"noun"}
+form #{"verb" "noun"}
+four #{"noun" "numeral"}
+front #{"adjective" "verb" "noun"}
+gave #{"verb"}
+given #{"preposition" "adjective" "verb" "noun"}
+got #{"verb"}
+green #{"adjective" "verb" "noun"}
+ground #{"adjective" "verb" "noun"}
+group #{"verb" "noun"}
+grow #{"verb"}
+half #{"preposition" "adjective" "adverb" "verb" "noun"}
+hand #{"verb" "noun"}
+hard #{"adjective" "adverb" "noun"}
+heard #{"adjective" "verb"}
+high #{"adjective" "adverb" "verb" "noun"}
+himself #{"pronoun"}
+however #{"conjunction" "adverb"}
+I'll #{}
+I'm #{}
+idea #{"noun"}
+important #{"adjective"}
+inside #{"preposition" "adjective" "adverb" "noun"}
+John #{"noun"}
+keep #{"verb" "noun"}
+kind #{"adjective" "noun"}
+knew #{"verb"}
+known #{"adjective" "verb" "noun"}
+land #{"adjective" "verb" "noun"}
+later #{"adjective" "adverb" "interjection"}
+learn #{"verb" "noun"}
+let #{"verb" "noun"}
+letter #{"verb" "noun"}
+life #{"noun"}
+light #{"adjective" "adverb" "verb" "noun"}
+live #{"adjective" "adverb" "verb" "noun"}
+living #{"adjective" "verb" "noun"}
+making #{"verb" "noun"}
+mean #{"adjective" "verb" "noun"}
+means #{"verb" "noun"}
+money #{"noun"}
+morning #{"interjection" "noun"}
+mother #{"verb" "noun"}
+move #{"verb" "noun"}
+Mrs. #{}
+near #{"preposition" "adjective" "adverb" "verb" "noun"}
+night #{"verb" "interjection" "noun"}
+nothing #{"adverb" "pronoun" "noun"}
+once #{"conjunction" "adverb"}
+open #{"adjective" "verb" "noun"}
+order #{"verb" "noun"}
+page #{"verb" "noun"}
+paper #{"adjective" "verb" "noun"}
+parts #{"verb" "noun"}
+perhaps #{"adverb" "noun"}
+picture #{"verb" "noun"}
+play #{"verb" "noun"}
+point #{"verb" "noun"}
+ready #{"adjective" "verb" "noun"}
+red #{"adjective" "verb" "noun"}
+remember #{"verb"}
+rest #{"verb" "noun"}
+room #{"adjective" "adverb" "verb" "noun"}
+run #{"adjective" "verb" "noun"}
+school #{"verb" "noun"}
+sea #{"noun"}
+second #{"adjective" "adverb" "verb" "noun"}
+seen #{"verb" "noun"}
+sentence #{"verb" "noun"}
+several #{"adverb" "noun"}
+short #{"preposition" "adjective" "adverb" "verb" "noun"}
+shown #{"verb"}
+since #{"conjunction" "preposition" "adverb"}
+six #{"noun" "numeral"}
+slide #{"verb" "noun"}
+sometime #{"adjective" "adverb"}
+soon #{"adjective" "adverb"}
+space #{"verb" "noun"}
+States #{"verb" "noun"}
+story #{"verb" "noun"}
+sun #{"verb" "noun" "proper noun"}
+sure #{"adjective" "adverb" "interjection"}
+table #{"verb" "noun"}
+though #{"conjunction" "adverb"}
+today #{"adverb" "noun"}
+told #{"verb"}
+took #{"verb"}
+top #{"adjective" "adverb" "verb" "noun"}
+toward #{"preposition" "adjective"}
+tree #{"verb" "noun"}
+try #{"adjective" "verb" "noun"}
+turn #{"verb" "noun"}
+United #{"adjective" "verb"}
+until #{"conjunction" "preposition"}
+upon #{"preposition" "adverb"}
+using #{"verb" "noun"}
+usually #{"adverb"}
+white #{"adjective" "verb" "noun"}
+whole #{"adjective" "adverb" "noun"}
+wind #{"verb" "noun"}
+without #{"conjunction" "preposition" "adverb"}
+yes #{"verb" "interjection" "noun"}
+yet #{"conjunction" "adverb" "verb" "noun"}
+young #{"adjective" "verb" "noun"}
+alone #{"adjective" "adverb"}
+already #{"adverb"}
+although #{"conjunction"}
+am #{"adverb"}
+America #{}
+anything #{"adverb" "pronoun" "noun"}
+area #{"noun"}
+ball #{"verb" "interjection" "noun"}
+beautiful #{"adjective" "noun"}
+beginning #{"adjective" "verb" "noun"}
+birds #{"noun"}
+blue #{"adjective" "verb" "noun"}
+boat #{"verb" "noun"}
+bottom #{"adjective" "verb" "noun"}
+box #{"verb" "noun"}
+bring #{"verb" "interjection"}
+build #{"verb" "noun"}
+building #{"verb" "noun"}
+built #{"adjective" "verb" "noun"}
+can't #{}
+care #{"verb" "noun"}
+carefully #{"adverb"}
+carried #{"verb"}
+carry #{"verb" "noun"}
+center #{"adjective" "verb" "noun"}
+check #{"adjective" "verb" "noun"}
+class #{"adjective" "verb" "noun"}
+coming #{"adjective" "verb" "noun"}
+common #{"adjective" "verb" "noun"}
+complete #{"adjective" "verb" "noun"}
+dark #{"adjective" "verb" "noun"}
+deep #{"adjective" "adverb" "noun"}
+distance #{"verb" "noun"}
+doing #{"verb" "interjection" "noun"}
+dry #{"adjective" "verb" "noun"}
+easy #{"adjective" "adverb" "verb" "noun"}
+either #{"conjunction" "adverb" "pronoun"}
+else #{"conjunction" "adjective" "adverb"}
+everyone #{"pronoun"}
+everything #{"pronoun"}
+fact #{"interjection" "noun"}
+fall #{"verb" "noun"}
+fast #{"adjective" "adverb" "verb" "interjection" "noun"}
+felt #{"adjective" "verb" "noun"}
+field #{"verb" "noun"}
+finally #{"adverb"}
+fine #{"adjective" "adverb" "verb" "noun"}
+floor #{"verb" "noun"}
+follow #{"verb" "noun"}
+foot #{"verb" "noun"}
+friend #{"verb" "noun"}
+full #{"adjective" "adverb" "verb" "noun"}
+game #{"adjective" "verb" "noun"}
+getting #{"verb" "noun"}
+girl #{"verb" "noun"}
+glass #{"verb" "noun"}
+goes #{"verb" "noun"}
+gold #{"adjective" "adverb" "verb" "noun"}
+gone #{"preposition" "adjective" "verb"}
+happened #{"verb"}
+having #{"adjective" "verb" "noun"}
+heart #{"verb" "noun"}
+heavy #{"adjective" "adverb" "verb" "noun"}
+held #{"verb"}
+hold #{"adjective" "verb" "noun"}
+horse #{"verb" "noun"}
+hot #{"adjective" "verb"}
+hour #{"noun"}
+hundred #{"noun" "numeral"}
+ice #{"verb" "noun"}
+Indian #{}
+instead #{"adverb"}
+itself #{"pronoun"}
+job #{"verb" "noun"}
+kept #{"verb"}
+language #{"verb" "noun"}
+lay #{"adjective" "verb" "noun"}
+least #{"adverb" "noun"}
+leave #{"verb" "noun"}
+let's #{"verb"}
+list #{"verb" "noun"}
+longer #{"adjective" "adverb" "noun"}
+low #{"adjective" "adverb" "verb" "noun"}
+main #{"adjective" "adverb" "verb" "noun"}
+map #{"verb" "noun"}
+matter #{"verb" "noun"}
+mind #{"verb" "noun"}
+Miss #{"verb" "noun"}
+moon #{"verb" "noun" "proper noun"}
+mountain #{"noun"}
+moving #{"adjective" "verb" "noun"}
+music #{"verb" "noun"}
+needed #{"adjective" "verb"}
+notice #{"verb" "noun"}
+outside #{"preposition" "adjective" "adverb" "noun"}
+past #{"preposition" "adjective" "adverb" "verb" "noun"}
+pattern #{"verb" "noun"}
+person #{"verb" "noun"}
+piece #{"verb" "noun"}
+plant #{"verb" "noun"}
+poor #{"adjective" "noun"}
+possible #{"adjective" "noun"}
+power #{"adjective" "verb" "noun"}
+probably #{"adverb"}
+problem #{"adjective" "noun"}
+question #{"verb" "noun"}
+quickly #{"adverb"}
+quite #{"adverb" "interjection" "noun"}
+rain #{"verb" "noun"}
+ran #{"verb" "noun"}
+real #{"adjective" "adverb" "noun"}
+river #{"verb" "noun"}
+road #{"adjective" "noun"}
+rock #{"verb" "noun"}
+round #{"preposition" "adjective" "adverb" "verb" "noun"}
+sat #{"verb" "noun"}
+scientist #{"noun"}
+shall #{"verb"}
+ship #{"verb" "noun"}
+simple #{"adjective" "verb" "noun"}
+size #{"verb" "noun"}
+sky #{"verb" "noun"}
+slowly #{"adverb"}
+snow #{"verb" "noun"}
+someone #{"pronoun" "noun"}
+special #{"adjective" "verb" "noun"}
+stand #{"verb" "noun"}
+start #{"verb" "noun"}
+state #{"adjective" "verb" "noun"}
+stay #{"adjective" "adverb" "verb" "noun"}
+stood #{"verb"}
+stop #{"adjective" "verb" "noun"}
+stopped #{"adjective" "verb"}
+strong #{"adjective" "adverb"}
+suddenly #{"adverb"}
+summer #{"verb" "noun"}
+surface #{"verb" "noun"}
+system #{"noun"}
+taken #{"adjective" "verb"}
+talk #{"verb" "noun"}
+tall #{"adjective" "noun"}
+ten #{"noun" "numeral"}
+that's #{}
+themselves #{"pronoun"}
+third #{"adjective" "verb" "noun"}
+tiny #{"adjective" "noun"}
+town #{"noun"}
+tried #{"adjective" "verb"}
+voice #{"verb" "noun"}
+walk #{"verb" "noun"}
+warm #{"adjective" "verb" "noun"}
+watch #{"verb" "noun"}
+weather #{"adjective" "verb" "noun"}
+whether #{"conjunction" "pronoun"}
+wide #{"adjective" "adverb" "noun"}
+wild #{"adjective" "adverb" "verb" "noun"}
+winter #{"verb" "noun"}
+within #{"preposition" "adjective" "adverb"}
+writing #{"verb" "noun"}
+written #{"adjective" "verb"}
+age #{"verb" "noun"}
+ask #{"verb" "noun"}
+baby #{"adjective" "verb" "noun"}
+base #{"adjective" "verb" "noun"}
+beside #{"preposition" "adverb"}
+bright #{"adjective" "noun"}
+business #{"adjective" "noun"}
+buy #{"verb" "noun"}
+case #{"adjective" "verb" "noun"}
+catch #{"verb" "noun"}
+caught #{"adjective" "verb"}
+child #{"verb" "noun"}
+choose #{"conjunction" "verb" "noun"}
+circle #{"verb" "noun"}
+clear #{"adjective" "adverb" "verb" "noun"}
+color #{"adjective" "verb" "noun"}
+copy #{"verb" "noun"}
+correct #{"adjective" "verb"}
+couldn't #{}
+difference #{"verb" "noun"}
+direction #{"noun"}
+dried #{"adjective" "verb"}
+easily #{"adverb"}
+edge #{"verb" "noun"}
+egg #{"verb" "noun"}
+eight #{"adjective" "noun" "numeral"}
+energy #{"noun"}
+England #{}
+especially #{"adverb"}
+Europe #{}
+exactly #{"adverb" "interjection"}
+except #{"conjunction" "preposition" "verb"}
+explain #{"verb"}
+famous #{"adjective" "verb"}
+farm #{"verb" "noun"}
+fell #{"adjective" "adverb" "verb" "noun"}
+figure #{"verb" "noun"}
+flat #{"adjective" "adverb" "verb" "noun"}
+fly #{"adjective" "verb" "noun"}
+forest #{"verb" "noun"}
+free #{"adjective" "adverb" "verb" "noun"}
+French #{"verb"}
+fun #{"adjective" "verb" "noun"}
+George #{}
+government #{"noun"}
+grass #{"verb" "noun"}
+grew #{"verb"}
+hair #{"verb" "noun"}
+happy #{"adjective" "verb" "noun"}
+he's #{}
+heat #{"verb" "noun"}
+history #{"verb" "noun"}
+human #{"adjective" "verb" "noun"}
+I've #{}
+inch #{"verb" "noun"}
+information #{"noun"}
+iron #{"adjective" "verb" "noun"}
+Jim #{}
+Joe #{"noun"}
+King #{"verb" "noun"}
+larger #{"adjective"}
+late #{"adjective" "adverb" "noun"}
+leg #{"adjective" "verb" "noun"}
+length #{"verb" "noun"}
+listen #{"verb" "noun"}
+lost #{"adjective" "verb"}
+lot #{"verb" "noun"}
+lower #{"adjective" "adverb" "verb"}
+machine #{"verb" "noun"}
+mark #{"verb" "noun"}
+maybe #{"adjective" "adverb" "noun"}
+measure #{"verb" "noun"}
+meet #{"adjective" "verb" "noun"}
+middle #{"adjective" "verb" "noun"}
+milk #{"verb" "noun"}
+minute #{"adjective" "verb" "noun"}
+modern #{"adjective" "noun"}
+moment #{"noun"}
+month #{"noun"}
+mouth #{"verb" "noun"}
+natural #{"adjective" "adverb" "noun"}
+nearly #{"adverb"}
+necessary #{"adjective" "noun"}
+north #{"adjective" "adverb" "verb" "noun"}
+object #{"verb" "noun"}
+ocean #{"noun"}
+oil #{"verb" "noun"}
+pay #{"adjective" "verb" "noun"}
+per #{"preposition" "adjective" "pronoun"}
+plan #{"verb" "noun"}
+plane #{"adjective" "verb" "noun"}
+present #{"adjective" "verb" "noun"}
+product #{"verb" "noun"}
+rather #{"adjective" "adverb" "verb" "interjection"}
+reach #{"verb" "noun"}
+reason #{"verb" "noun"}
+record #{"verb" "noun"}
+running #{"preposition" "adjective" "adverb" "verb" "noun"}
+seems #{"verb"}
+sent #{"noun"}
+seven #{"noun" "numeral"}
+shape #{"verb" "noun"}
+sides #{"verb" "noun"}
+single #{"adjective" "verb" "noun"}
+skin #{"verb" "noun"}
+sleep #{"verb" "noun"}
+smaller #{"adjective" "adverb"}
+soft #{"adjective" "adverb" "interjection" "noun"}
+soil #{"verb" "noun"}
+south #{"adjective" "adverb" "verb" "noun"}
+speak #{"verb" "noun"}
+speed #{"verb" "noun"}
+spring #{"verb" "noun"}
+square #{"adjective" "verb" "noun"}
+star #{"verb" "noun"}
+step #{"verb" "noun"}
+store #{"verb" "noun"}
+straight #{"adjective" "adverb" "verb" "noun"}
+strange #{"adjective" "verb" "noun"}
+street #{"adjective" "verb" "noun"}
+subject #{"adjective" "verb" "noun"}
+suppose #{"verb"}
+teacher #{"noun"}
+thousand #{"numeral"}
+thus #{"adverb" "noun"}
+Tom #{"verb" "noun"}
+travel #{"verb" "noun"}
+trip #{"adjective" "verb" "noun"}
+trouble #{"verb" "noun"}
+unit #{"adjective" "noun"}
+village #{"noun"}
+wall #{"verb" "interjection" "noun"}
+war #{"verb" "noun"}
+wasn't #{}
+week #{"noun"}
+whose #{"pronoun"}
+window #{"verb" "noun"}
+wish #{"verb" "noun"}
+women #{"noun"}
+won't #{}
+wood #{"adjective" "verb" "noun"}
+wrote #{"verb"}
+yellow #{"adjective" "verb" "noun"}
+you're #{}
+yourself #{"pronoun"}
+action #{"verb" "interjection" "noun"}
+addition #{"noun"}
+afraid #{"adjective"}
+afternoon #{"adverb" "interjection" "noun"}
+ahead #{"adverb"}
+amount #{"verb" "noun"}
+ancient #{"adjective" "noun"}
+anyone #{"pronoun"}
+arm #{"adjective" "verb" "noun"}
+bad #{"adjective" "adverb" "verb" "noun"}
+bear #{"adjective" "verb" "noun"}
+beyond #{"preposition" "adverb" "noun"}
+bit #{"adjective" "verb" "noun"}
+blood #{"verb" "noun"}
+board #{"verb" "noun"}
+Bob #{"verb" "noun"}
+born #{"adjective" "verb" "noun"}
+break #{"verb" "noun"}
+British #{}
+broken #{"adjective" "verb"}
+brother #{"verb" "interjection" "noun"}
+brown #{"adjective" "verb" "noun"}
+busy #{"adjective" "verb" "noun"}
+capital #{"adjective" "noun"}
+cat #{"adjective" "verb" "noun"}
+cattle #{"noun"}
+cause #{"verb" "noun"}
+century #{"noun"}
+chance #{"adjective" "adverb" "verb" "noun"}
+clean #{"adjective" "adverb" "verb" "noun"}
+clothes #{"verb" "noun"}
+coast #{"verb" "noun"}
+control #{"verb" "noun"}
+cool #{"adjective" "verb" "noun"}
+corn #{"verb" "noun"}
+corner #{"verb" "noun"}
+cover #{"adjective" "verb" "noun"}
+cross #{"preposition" "adjective" "verb" "noun"}
+Dan #{"noun"}
+dead #{"adjective" "adverb" "verb" "noun"}
+deal #{"adjective" "verb" "noun"}
+death #{"noun"}
+decide #{"verb"}
+difficult #{"adjective" "verb"}
+doesn't #{}
+drive #{"verb" "noun"}
+engine #{"verb" "noun"}
+evening #{"verb" "noun"}
+farmer #{"noun"}
+faster #{"adjective" "adverb" "noun"}
+fight #{"verb" "noun"}
+fill #{"verb" "noun"}
+finger #{"verb" "noun"}
+force #{"verb" "noun"}
+forward #{"adjective" "adverb" "verb" "noun"}
+France #{}
+fresh #{"adjective" "adverb" "verb" "noun"}
+garden #{"adjective" "verb" "noun"}
+general #{"adjective" "adverb" "verb" "noun"}
+glad #{"adjective" "verb"}
+greater #{"adjective"}
+greatest #{"adjective"}
+guess #{"verb" "noun"}
+happen #{"adverb" "verb"}
+Henry #{"noun"}
+higher #{"adjective" "adverb" "verb" "noun"}
+hit #{"adjective" "pronoun" "verb" "noun"}
+hole #{"adjective" "verb" "noun"}
+hope #{"verb" "noun"}
+huge #{"adjective"}
+interest #{"verb" "noun"}
+island #{"verb" "noun"}
+isn't #{"noun"}
+jack #{"adjective" "verb" "noun"}
+lady #{"noun"}
+largest #{"adjective"}
+lead #{"adjective" "verb" "noun"}
+led #{"adjective" "verb"}
+level #{"adjective" "verb" "noun"}
+love #{"verb" "noun"}
+Mary #{"noun"}
+material #{"adjective" "verb" "noun"}
+meant #{"verb"}
+meat #{"noun"}
+method #{"verb" "noun"}
+missing #{"adjective" "verb" "noun"}
+needs #{"adverb" "verb" "noun"}
+nor #{"conjunction" "noun"}
+nose #{"verb" "noun"}
+note #{"verb" "noun"}
+opposite #{"preposition" "adjective" "adverb" "noun"}
+pair #{"verb" "noun"}
+party #{"adjective" "verb" "noun"}
+pass #{"verb" "noun"}
+period #{"adjective" "verb" "interjection" "noun"}
+please #{"adverb" "verb"}
+position #{"verb" "noun"}
+pound #{"verb" "noun"}
+practice #{"verb" "noun"}
+pretty #{"adjective" "adverb" "verb" "noun"}
+produce #{"verb" "noun"}
+pull #{"verb" "interjection" "noun"}
+quiet #{"adjective" "verb" "interjection" "noun"}
+race #{"verb" "noun"}
+radio #{"verb" "noun"}
+region #{"noun"}
+result #{"verb" "interjection" "noun"}
+return #{"verb" "noun"}
+rich #{"adjective" "verb"}
+ride #{"verb" "noun"}
+ring #{"verb" "noun"}
+rule #{"verb" "noun"}
+sand #{"adjective" "verb" "noun"}
+science #{"verb" "noun"}
+section #{"verb" "noun"}
+seed #{"verb" "noun"}
+send #{"verb" "noun"}
+sense #{"verb" "noun"}
+sets #{"verb" "noun"}
+sharp #{"adjective" "adverb" "verb" "noun"}
+sight #{"verb" "noun"}
+sign #{"verb" "noun"}
+silver #{"adjective" "verb" "noun"}
+similar #{"adjective" "noun"}
+sit #{"verb" "noun"}
+son #{"verb" "noun"}
+song #{"noun"}
+spent #{"adjective" "verb"}
+spread #{"verb" "noun"}
+stick #{"adjective" "verb" "noun"}
+stone #{"adjective" "adverb" "verb" "noun"}
+tail #{"adjective" "verb" "noun"}
+team #{"verb" "noun"}
+teeth #{"verb" "noun"}
+temperature #{"noun"}
+test #{"verb" "noun"}
+there's #{}
+therefore #{"adverb"}
+thick #{"adjective" "adverb" "verb" "noun"}
+thin #{"adjective" "adverb" "verb" "noun"}
+train #{"verb" "noun"}
+various #{"adjective"}
+wait #{"verb" "noun"}
+Washington #{}
+wave #{"verb" "noun"}
+we'll #{}
+weight #{"verb" "noun"}
+west #{"adjective" "adverb" "verb" "noun"}
+wife #{"verb" "noun"}
+wouldn't #{}
+wrong #{"adjective" "adverb" "verb" "noun"}
+you'll #{}
+according #{"adjective" "adverb" "verb"}
+act #{"verb" "noun"}
+actually #{"adverb"}
+Africa #{}
+alike #{"adjective" "adverb"}
+apart #{"adjective" "adverb"}
+ate #{"verb"}
+attention #{"interjection" "noun"}
+bank #{"verb" "noun"}
+basic #{"adjective" "noun"}
+beat #{"adjective" "verb" "noun"}
+blow #{"adjective" "verb" "noun"}
+bone #{"adjective" "verb" "noun"}
+bread #{"verb" "noun"}
+careful #{"adjective"}
+chair #{"verb" "noun"}
+chief #{"adjective" "verb" "noun"}
+Christmas #{}
+church #{"verb" "noun"}
+cloth #{"noun"}
+cloud #{"verb" "noun"}
+column #{"noun"}
+compare #{"verb" "noun"}
+contain #{"verb"}
+continued #{"adjective" "verb" "noun"}
+cost #{"verb" "noun"}
+cotton #{"adjective" "verb" "noun"}
+count #{"adjective" "verb" "noun"}
+dance #{"verb" "noun"}
+describe #{"verb"}
+desert #{"adjective" "verb" "noun"}
+dinner #{"verb" "noun"}
+doctor #{"verb" "noun"}
+dollar #{"noun"}
+drop #{"verb" "noun"}
+dropped #{"verb"}
+ear #{"verb" "noun"}
+east #{"adjective" "adverb" "noun"}
+electric #{"adjective" "noun"}
+element #{"verb" "noun"}
+enjoy #{"verb"}
+equal #{"adjective" "verb" "noun"}
+exercise #{"verb" "noun"}
+experiment #{"verb" "noun"}
+familiar #{"adjective" "noun"}
+farther #{"verb"}
+fear #{"adjective" "verb" "noun"}
+forth #{"preposition" "adverb"}
+gas #{"adjective" "verb" "noun"}
+giving #{"adjective" "verb" "noun"}
+gray #{"adjective" "verb" "noun"}
+grown #{"adjective" "verb"}
+hardly #{"adverb" "interjection"}
+hat #{"verb" "noun"}
+hill #{"verb" "noun"}
+hurt #{"adjective" "verb" "noun"}
+I'd #{}
+imagine #{"verb" "noun"}
+include #{"verb" "noun"}
+indeed #{"adverb" "interjection"}
+Johnny #{"noun"}
+joined #{"verb"}
+key #{"adjective" "verb" "noun"}
+kitchen #{"verb" "noun"}
+knowledge #{"verb" "noun"}
+law #{"verb" "interjection" "noun"}
+lie #{"verb" "noun"}
+major #{"adjective" "verb" "noun"}
+met #{"verb"}
+metal #{"adjective" "verb" "noun"}
+movement #{"noun"}
+nation #{"adverb" "noun"}
+nature #{"verb" "noun"}
+nine #{"noun" "numeral"}
+none #{"adverb" "pronoun" "noun"}
+office #{"verb" "noun"}
+older #{"adjective"}
+onto #{"preposition" "adjective"}
+original #{"adjective" "noun"}
+paragraph #{"verb" "noun"}
+parent #{"verb" "noun"}
+particular #{"adjective" "noun"}
+path #{"verb" "noun"}
+Paul #{}
+Peter #{"verb" "noun"}
+pick #{"verb" "noun"}
+president #{"adjective" "noun"}
+pressure #{"verb" "noun"}
+process #{"verb" "noun"}
+public #{"adjective" "noun"}
+quick #{"adjective" "adverb" "verb" "noun"}
+report #{"verb" "noun"}
+rope #{"verb" "noun"}
+rose #{"adjective" "verb" "noun"}
+row #{}
+safe #{}
+salt #{}
+Sam #{}
+scale #{}
+sell #{}
+separate #{}
+sheep #{}
+shoe #{}
+shore #{}
+simply #{}
+sing #{}
+sister #{}
+sitting #{}
+sold #{}
+soldier #{}
+solve #{}
+speech #{}
+spend #{}
+steel #{}
+string #{}
+student #{"noun"}
+studied #{"adjective" "verb"}
+sugar #{"verb" "interjection" "noun"}
+television #{"verb" "noun"}
+term #{"adjective" "verb" "noun"}
+throughout #{"preposition" "adverb"}
+tired #{"adjective" "verb"}
+total #{"adjective" "verb" "noun"}
+touch #{}
+trade #{"verb" "noun"}
+truck #{"verb" "noun"}
+twice #{"adverb"}
+type #{"verb" "noun"}
+uncle #{"verb" "interjection" "noun"}
+unless #{"conjunction"}
+useful #{"adjective"}
+value #{"verb" "noun"}
+verb #{"verb" "noun"}
+visit #{"verb" "noun"}
+wear #{"verb" "noun"}
+what's #{}
+wheel #{"verb" "noun"}
+William #{}
+wing #{"verb" "noun"}
+wire #{"verb" "noun"}
+won #{"verb" "noun"}
+wonder #{"verb" "noun"}
+worker #{"noun"}
+yard #{"verb" "noun"}
+1/2 #{}
+alive #{"adjective"}
+angry #{"adjective"}
+army #{"noun"}
+average #{"adjective" "verb" "noun"}
+bag #{"verb" "noun"}
+band #{"verb" "noun"}
+Billy #{"noun"}
+branch #{"verb" "noun"}
+breakfast #{"verb" "noun"}
+breath #{"noun"}
+broke #{"adjective" "verb" "noun"}
+bus #{"verb" "noun"}
+cabin #{"verb" "noun"}
+California #{}
+camp #{"adjective" "verb" "noun"}
+captain #{"verb" "noun"}
+cell #{"verb" "noun"}
+cent #{"noun"}
+certainly #{"adverb"}
+changing #{"verb" "noun"}
+closer #{"adjective" "noun"}
+coal #{"verb" "noun"}
+coat #{"verb" "noun"}
+community #{"noun"}
+company #{"verb" "noun"}
+completely #{"adverb"}
+compound #{"adjective" "verb" "noun"}
+condition #{"verb" "noun"}
+consider #{"verb"}
+correctly #{"adverb"}
+crop #{"verb" "noun"}
+crowd #{"verb" "noun"}
+current #{"adjective" "noun"}
+danger #{"verb" "noun"}
+dear #{"adjective" "adverb" "verb" "noun"}
+degree #{"noun"}
+develop #{"verb"}
+die #{"verb" "noun"}
+directly #{"conjunction" "adverb"}
+discover #{"verb"}
+divide #{"verb" "noun"}
+double #{"adjective" "adverb" "verb" "noun"}
+Dr. #{"noun"}
+dress #{"verb" "noun"}
+drink #{"verb" "noun"}
+drove #{"verb" "noun"}
+dust #{"verb" "noun"}
+easier #{"adjective" "adverb"}
+effect #{"verb" "noun"}
+electricity #{"noun"}
+empty #{"adjective" "verb" "noun"}
+entire #{"adjective" "noun"}
+everybody #{"pronoun"}
+exciting #{"adjective" "verb" "noun"}
+expect #{"verb"}
+experience #{"verb" "noun"}
+express #{"adjective" "verb" "noun"}
+fair #{"adjective" "adverb" "verb" "noun"}
+feed #{"verb" "noun"}
+final #{"adjective" "noun"}
+finish #{"verb" "noun"}
+flew #{"adjective" "verb" "noun"}
+fruit #{"verb" "noun"}
+further #{"adjective" "adverb" "verb"}
+future #{"adjective" "noun"}
+Greek #{"verb" "noun"}
+guide #{"verb" "noun"}
+gun #{"verb" "noun"}
+herself #{"pronoun"}
+hungry #{"adjective"}
+instrument #{"verb" "noun"}
+Jane #{"noun"}
+join #{"verb" "noun"}
+jump #{"adjective" "adverb" "verb" "noun"}
+laid #{"adjective" "verb"}
+liquid #{"adjective" "noun"}
+loud #{"adjective" "adverb" "noun"}
+market #{"verb" "noun"}
+member #{"verb" "noun"}
+Mexico #{}
+Mike #{"verb" "noun"}
+mine #{"pronoun" "verb" "noun"}
+motion #{"verb" "noun"}
+myself #{"pronoun"}
+neck #{"verb" "noun"}
+news #{"verb" "noun"}
+nice #{"adjective" "adverb" "verb" "interjection" "noun"}
+noise #{"verb" "noun"}
+noun #{"verb" "noun"}
+oxygen #{"noun"}
+paid #{"adjective" "verb"}
+phrase #{"verb" "noun"}
+plain #{"adjective" "adverb" "verb" "noun"}
+poem #{"noun"}
+population #{"noun"}
+proper #{"adjective" "adverb" "noun"}
+proud #{"adjective"}
+provide #{"verb"}
+purpose #{"verb" "noun"}
+putting #{"verb" "noun"}
+quietly #{"adverb"}
+raise #{"verb" "noun"}
+range #{"verb" "noun"}
+rate #{"verb" "noun"}
+regular #{"adjective" "adverb" "noun"}
+related #{"adjective" "verb"}
+replied #{"verb"}
+represent #{"verb"}
+rise #{"verb" "noun"}
+scientific #{"adjective"}
+season #{"verb" "noun"}
+seat #{"verb" "noun"}
+share #{"verb" "noun"}
+shot #{"adjective" "verb" "interjection" "noun"}
+shoulder #{"verb" "noun"}
+slow #{"adjective" "adverb" "verb" "noun"}
+smile #{"verb" "noun"}
+solid #{"adjective" "adverb" "noun"}
+solution #{"verb" "noun"}
+sort #{"verb" "noun"}
+southern #{"adjective" "noun"}
+stage #{"verb" "noun"}
+statement #{"verb" "noun"}
+station #{"verb" "noun"}
+steam #{"adjective" "verb" "noun"}
+stream #{"verb" "noun"}
+strength #{"verb" "noun"}
+supply #{"adverb" "verb" "noun"}
+surprise #{"verb" "noun"}
+symbol #{"verb" "noun"}
+till #{"conjunction" "preposition" "verb" "noun"}
+tomorrow #{"adverb" "noun"}
+tube #{"verb" "noun"}
+twelve #{"noun" "numeral"}
+twenty #{"noun" "numeral"}
+usual #{"adjective" "noun"}
+valley #{"noun"}
+variety #{"noun"}
+vowel #{"verb" "noun"}
+we're #{}
+wet #{"adjective" "verb" "noun"}
+wooden #{"adjective"}
+worth #{"adjective" "verb" "noun"}
+airplane #{"verb" "noun"}
+angle #{"verb" "noun"}
+Ann #{}
+apple #{"verb" "noun"}
+art #{"noun"}
+Atlantic #{}
+atmosphere #{"noun"}
+bar #{"preposition" "verb" "noun"}
+barn #{"verb" "noun"}
+baseball #{"noun"}
+beauty #{"adjective" "verb" "interjection" "noun"}
+believed #{"verb"}
+bell #{"verb" "noun"}
+belong #{"preposition" "verb"}
+beneath #{"preposition" "adverb"}
+bigger #{"adjective" "verb"}
+bottle #{"verb" "noun"}
+bowl #{"verb" "noun"}
+broad #{"adjective" "noun"}
+chapter #{"verb" "noun"}
+chart #{"verb" "noun"}
+Chinese #{}
+clearly #{"adverb"}
+climate #{"verb" "noun"}
+clock #{"verb" "noun"}
+closely #{"adverb"}
+clothing #{"verb" "noun"}
+coffee #{"adjective" "verb" "noun"}
+cow #{"verb" "noun"}
+cry #{"verb" "noun"}
+Dad #{"verb" "noun"}
+dangerous #{"adjective"}
+deer #{"noun"}
+desk #{"verb" "noun"}
+detail #{"verb" "noun"}
+development #{"noun"}
+drew #{"verb"}
+driver #{"noun"}
+event #{"verb" "noun"}
+everywhere #{"adverb"}
+fat #{"adjective" "verb" "noun"}
+favorite #{"adjective" "verb" "noun"}
+fence #{"verb" "noun"}
+fifty #{"noun" "numeral"}
+flight #{"adjective" "verb" "noun"}
+flow #{"verb" "noun"}
+flower #{"verb" "noun"}
+forget #{"verb"}
+fourth #{"adjective" "noun"}
+friendly #{"adjective" "adverb" "noun"}
+generally #{"adverb"}
+German #{"adjective" "noun"}
+Germany #{}
+giant #{"adjective" "noun"}
+golden #{"adjective" "verb" "noun"}
+grain #{"verb" "noun"}
+handle #{"verb" "noun"}
+height #{"noun"}
+hung #{"adjective" "verb"}
+hurry #{"verb" "noun"}
+immediately #{"conjunction" "adverb"}
+industry #{"noun"}
+instance #{"verb" "noun"}
+Italy #{}
+James #{}
+knife #{"verb" "noun"}
+lake #{"verb" "noun"}
+Latin #{}
+leader #{"noun"}
+leaving #{"verb"}
+likely #{"adjective" "adverb" "noun"}
+lunch #{"verb" "noun"}
+mass #{"adjective" "verb" "noun"}
+master #{"adjective" "verb" "noun"}
+mile #{"noun"}
+mix #{"verb" "noun"}
+model #{"adjective" "verb" "noun"}
+mud #{"verb" "noun"}
+muscle #{"verb" "noun"}
+nearby #{"adjective" "adverb"}
+nearest #{"preposition" "adjective"}
+nest #{"verb" "noun"}
+newspaper #{"verb" "noun"}
+nobody #{"pronoun" "noun"}
+observe #{"verb"}
+Pacific #{"adjective"}
+peace #{"verb" "interjection" "noun"}
+plate #{"verb" "noun"}
+plenty #{"adjective" "adverb" "pronoun" "noun"}
+popular #{"adjective" "noun"}
+powerful #{"adjective" "adverb"}
+push #{"verb" "noun"}
+railroad #{"verb" "noun"}
+rapidly #{"adverb"}
+root #{"verb" "noun"}
+rubber #{"adjective" "verb" "noun"}
+sad #{"adjective" "verb" "noun"}
+sail #{"verb" "noun"}
+save #{"conjunction" "preposition" "verb" "noun"}
+score #{"verb" "interjection" "noun"}
+seeing #{"conjunction" "adjective" "verb" "noun"}
+serious #{"adjective" "adverb"}
+service #{"verb" "noun"}
+sheet #{"verb" "noun"}
+shop #{"verb" "interjection" "noun"}
+silent #{"adjective" "noun"}
+smell #{"verb" "noun"}
+smoke #{"adjective" "verb" "noun"}
+smooth #{"adjective" "adverb" "verb" "noun"}
+source #{"verb" "noun"}
+spell #{"verb" "noun"}
+storm #{"verb" "noun"}
+structure #{"verb" "noun"}
+supper #{"verb" "noun"}
+support #{"verb" "noun"}
+sweet #{"adjective" "adverb" "verb" "interjection" "noun"}
+swim #{"verb" "noun"}
+telephone #{"verb" "noun"}
+Texas #{}
+threw #{"verb"}
+throw #{"verb" "noun"}
+tone #{"pronoun" "verb" "noun"}
+tool #{"verb" "noun"}
+track #{"verb" "noun"}
+trail #{"verb" "noun"}
+understanding #{"adjective" "verb" "noun"}
+upper #{"adjective" "noun"}
+view #{"verb" "noun"}
+wagon #{"verb" "noun"}
+western #{"adjective" "noun"}
+whatever #{"adjective" "pronoun" "interjection"}
+wheat #{"adjective" "noun"}
+whenever #{"conjunction" "adverb"}
+whom #{"pronoun"}
+win #{"verb" "noun"}
+wonderful #{"adjective" "adverb"}
+wore #{"verb"}
+ability #{"noun"}
+agree #{"verb"}
+ants #{"verb" "noun"}
+Asia #{}
+asleep #{"adjective"}
+attack #{"verb" "noun"}
+balance #{"verb" "noun"}
+bat #{"verb" "noun"}
+battle #{"adjective" "verb" "noun"}
+Ben #{"preposition" "adjective" "adverb" "noun"}
+block #{"verb" "noun"}
+bow #{"verb" "noun"}
+brain #{"verb" "noun"}
+brave #{"adjective" "verb" "noun"}
+bridge #{"verb" "noun"}
+cave #{"verb" "interjection" "noun"}
+charge #{"verb" "noun"}
+chemical #{"adjective" "noun"}
+China #{"noun"}
+clay #{"verb" "noun"}
+climb #{"verb" "noun"}
+composition #{"noun"}
+congress #{"verb" "noun"}
+copper #{"adjective" "verb" "noun"}
+crew #{"verb" "noun"}
+cup #{"verb" "noun"}
+daughter #{"noun"}
+design #{"verb" "noun"}
+determine #{"verb"}
+direct #{"adjective" "adverb" "verb"}
+discuss #{"verb"}
+division #{"noun"}
+drawn #{"adjective" "verb"}
+earlier #{"adjective" "adverb"}
+eaten #{"adjective" "verb"}
+education #{"noun"}
+enemy #{"adjective" "verb" "noun"}
+enter #{"verb" "noun"}
+equipment #{"noun"}
+escape #{"verb" "noun"}
+European #{}
+excited #{"adjective" "verb"}
+expression #{"noun"}
+extra #{"adjective" "adverb" "noun"}
+factory #{"adjective" "noun"}
+feathers #{"verb" "noun"}
+fellow #{"verb" "noun"}
+fighting #{"adjective" "verb" "noun"}
+fought #{"verb"}
+Frank #{"adjective" "verb" "noun"}
+freedom #{"noun"}
+funny #{"adjective" "adverb" "noun"}
+fur #{"conjunction" "preposition" "verb" "noun"}
+growth #{"noun"}
+hall #{"noun"}
+he'd #{}
+health #{"noun"}
+highest #{"adjective" "adverb"}
+hunt #{"verb" "noun"}
+including #{"preposition" "verb"}
+increase #{"verb" "noun"}
+indicate #{"verb"}
+individual #{"adjective" "noun"}
+Japanese #{}
+kill #{"verb" "noun"}
+laugh #{"verb" "noun"}
+library #{"noun"}
+lift #{"verb" "noun"}
+lion #{"adjective" "noun"}
+local #{"adjective" "adverb" "noun"}
+lose #{"verb" "noun"}
+lovely #{"adjective" "adverb" "noun"}
+lying #{"verb" "noun"}
+magic #{"adjective" "verb" "noun"}
+Mama #{"noun"}
+manner #{"noun"}
+Mark #{"verb" "noun"}
+May #{"verb" "noun"}
+mostly #{"adverb"}
+national #{"adjective" "noun"}
+neighbor #{"verb" "noun"}
+ordinary #{"adjective" "noun"}
+parallel #{"adjective" "adverb" "verb" "noun"}
+park #{"verb" "noun"}
+particularly #{"adverb"}
+pencil #{"verb" "noun"}
+perfect #{"adjective" "verb" "noun"}
+planet #{"noun"}
+planned #{"adjective" "verb"}
+pleasant #{"adjective" "noun"}
+pocket #{"adjective" "verb" "noun"}
+police #{"verb" "noun"}
+political #{"adjective" "noun"}
+post #{"preposition" "adverb" "verb" "noun"}
+potatoes #{"noun"}
+price #{"verb" "noun"}
+printed #{"adjective" "verb"}
+program #{"verb" "noun"}
+property #{"verb" "noun"}
+prove #{"verb" "noun"}
+remain #{"verb" "noun"}
+riding #{"verb" "noun"}
+roll #{"verb" "noun"}
+Roman #{"adjective" "noun"}
+roof #{"verb" "noun"}
+rough #{"adjective" "adverb" "verb" "noun"}
+scene #{"verb" "noun"}
+search #{"verb" "noun"}
+secret #{"adjective" "verb" "noun"}
+series #{"adjective" "noun"}
+serve #{"verb" "noun"}
+settlers #{"noun"}
+shinning #{"verb"}
+shut #{"adjective" "verb" "noun"}
+signal #{"adjective" "verb" "noun"}
+Sir #{"verb" "noun"}
+skill #{"adjective" "verb" "noun"}
+smallest #{"adjective" "adverb"}
+social #{"adjective" "noun"}
+softly #{"adverb"}
+St. #{}
+struck #{"verb"}
+studying #{"verb" "noun"}
+success #{"noun"}
+suit #{"verb" "noun"}
+sunlight #{"verb" "noun"}
+swimming #{"verb" "noun"}
+taste #{"verb" "noun"}
+taught #{"verb"}
+thank #{"verb" "noun"}
+they're #{}
+tip #{"verb" "noun"}
+title #{"verb" "noun"}
+tongue #{"verb" "noun"}
+valuable #{"adjective" "noun"}
+vast #{"adjective" "noun"}
+vegetable #{"adjective" "noun"}
+wash #{"verb" "noun"}
+weak #{"adjective"}
+you've #{}
+activity #{"noun"}
+Alaska #{}
+appearance #{"noun"}
+aren't #{}
+article #{"verb" "noun"}
+Aunt #{"noun"}
+automobile #{"adjective" "verb" "noun"}
+avoid #{"verb"}
+basket #{"verb" "noun"}
+birthday #{"verb" "noun"}
+cage #{"verb" "noun"}
+cake #{"verb" "noun"}
+Canada #{}
+central #{"adjective"}
+character #{"verb" "noun"}
+Charles #{}
+chicken #{"adjective" "verb" "noun"}
+chosen #{"adjective" "verb"}
+club #{"verb" "noun"}
+cook #{"verb" "noun"}
+court #{"verb" "noun"}
+cream #{"adjective" "verb" "noun"}
+cutting #{"adjective" "verb" "noun"}
+daily #{"adjective" "adverb" "verb" "noun"}
+darkness #{"noun"}
+diagram #{"verb" "noun"}
+Dick #{"verb" "noun" "numeral"}
+disappear #{"verb"}
+doubt #{"verb" "noun"}
+dozen #{"noun"}
+dream #{"adjective" "verb" "noun"}
+driving #{"adjective" "verb" "noun"}
+effort #{"verb" "noun"}
+establish #{"verb"}
+exact #{"adjective" "adverb" "verb"}
+excitement #{"noun"}
+fifteen #{"numeral"}
+flag #{"verb" "noun"}
+flies #{"verb" "noun"}
+football #{"verb" "noun"}
+foreign #{"adjective" "noun"}
+frame #{"verb" "noun"}
+frequently #{"adverb"}
+frighten #{"verb"}
+function #{"verb" "noun"}
+gate #{"verb" "noun"}
+gently #{"adverb"}
+gradually #{"adverb"}
+hadn't #{}
+harder #{"adjective" "noun"}
+hide #{"verb" "noun"}
+hurried #{"adjective" "verb"}
+identity #{"noun"}
+importance #{"noun"}
+impossible #{"adjective" "noun"}
+India #{}
+invented #{"adjective" "verb"}
+Italian #{}
+jar #{"verb" "noun"}
+journey #{"verb" "noun"}
+joy #{"verb" "noun"}
+lesson #{"verb" "noun"}
+Lincoln #{}
+lips #{"verb" "noun"}
+log #{"verb" "noun"}
+London #{}
+loose #{"adjective" "verb" "interjection" "noun"}
+massage #{"verb" "noun"}
+minerals #{"noun"}
+outer #{"adjective" "noun"}
+paint #{"verb" "noun"}
+Papa #{"noun"}
+Paris #{}
+particles #{"noun"}
+personal #{"adjective" "noun"}
+physical #{"adjective" "noun"}
+pie #{"verb" "noun"}
+pipe #{"verb" "noun"}
+pole #{"verb" "noun"}
+pond #{"verb" "noun"}
+progress #{"verb" "noun"}
+quarter #{"adjective" "verb" "noun"}
+rays #{"verb" "noun"}
+recent #{"adjective"}
+recognize #{"verb"}
+replace #{"verb"}
+rhythm #{"noun"}
+Richard #{}
+Robert #{}
+rod #{"verb" "noun"}
+ruler #{"verb" "noun"}
+safety #{"verb" "noun"}
+Sally #{"verb" "noun"}
+sang #{"verb" "noun"}
+setting #{"adjective" "verb" "noun"}
+shells #{"verb" "noun"}
+sick #{"adjective" "verb" "noun"}
+situation #{"noun"}
+slightly #{"adverb"}
+Spain #{}
+spirit #{"verb" "noun"}
+steady #{"adjective" "adverb" "verb" "noun"}
+stepped #{"adjective" "verb"}
+strike #{"verb" "noun"}
+successful #{"adjective"}
+sudden #{"adjective" "adverb" "noun"}
+sum #{"pronoun" "verb" "noun"}
+terrible #{"adjective" "adverb"}
+tie #{"verb" "noun"}
+traffic #{"verb" "noun"}
+unusual #{"adjective" "noun"}
+volume #{"verb" "noun"}
+whale #{"verb" "noun"}
+wise #{"adjective" "verb" "noun"}
+yesterday #{"adverb" "noun"}
+account #{"verb" "noun"}
+allow #{"verb"}
+anywhere #{"adverb" "pronoun"}
+attached #{"adjective" "verb"}
+audience #{"noun"}
+available #{"adjective"}
+balloon #{"verb" "noun"}
+bare #{"adjective" "adverb" "verb" "noun"}
+bark #{"verb" "noun"}
+begun #{"verb"}
+bent #{"adjective" "verb" "noun"}
+biggest #{"adjective"}
+bill #{"verb" "noun"}
+blank #{"adjective" "verb" "noun"}
+blew #{"adjective" "verb" "noun"}
+breathing #{"verb" "noun"}
+butter #{"verb" "noun"}
+cap #{"verb" "noun"}
+carbon #{"verb" "noun"}
+card #{"verb" "noun"}
+chain #{"verb" "noun"}
+cheese #{"verb" "interjection" "noun"}
+chest #{"verb" "noun"}
+Chicago #{}
+choice #{"adjective" "noun"}
+circus #{"verb" "noun"}
+citizen #{"noun"}
+classroom #{"noun"}
+college #{"noun"}
+consist #{"verb" "noun"}
+continent #{"adjective" "noun"}
+conversation #{"verb" "noun"}
+courage #{"verb" "noun"}
+cowboy #{"verb" "noun"}
+creature #{"noun"}
+date #{"verb" "noun"}
+depend #{"verb"}
+differ #{"verb"}
+discovery #{"noun"}
+disease #{"verb" "noun"}
+duck #{"verb" "noun"}
+due #{"adjective" "adverb" "noun"}
+Dutch #{"verb" "noun"}
+entirely #{"adverb"}
+environment #{"noun"}
+exclaimed #{"verb"}
+factor #{"verb" "noun"}
+fog #{"verb" "noun"}
+forgot #{"verb"}
+forgotten #{"adjective" "verb" "noun"}
+frozen #{"adjective" "verb"}
+fuel #{"verb" "noun"}
+furniture #{"noun"}
+gather #{"verb" "noun"}
+gentle #{"adjective" "verb" "noun"}
+globe #{"verb" "noun"}
+grandfather #{"verb" "noun"}
+greatly #{"adverb"}
+haven't #{}
+helpful #{"adjective"}
+hidden #{"adjective" "verb"}
+honor #{"verb" "noun"}
+husband #{"verb" "noun"}
+involved #{"adjective" "verb"}
+Japan #{"verb" "noun"}
+jet #{"adjective" "verb" "noun"}
+Jimmy #{"verb" "noun"}
+layers #{"verb" "noun"}
+leaf #{"verb" "noun"}
+leather #{"adjective" "verb" "noun"}
+load #{"verb" "noun"}
+lonely #{"adjective"}
+Louis #{"noun"}
+March #{"verb" "noun"}
+meal #{"verb" "noun"}
+medicine #{"verb" "noun"}
+merely #{"adverb"}
+mice #{"noun"}
+molecular #{"adjective" "noun"}
+musical #{"adjective" "noun"}
+native #{"adjective" "noun"}
+Negro #{"adjective" "noun"}
+noon #{"verb" "noun"}
+occur #{"verb"}
+orange #{"adjective" "verb" "noun"}
+ought #{"noun"}
+pack #{"verb" "noun"}
+partly #{"adverb"}
+pet #{"adjective" "verb" "noun"}
+pine #{"verb" "noun"}
+pink #{"adjective" "verb" "noun"}
+pitch #{"verb" "noun"}
+pool #{"verb" "noun"}
+prepare #{"verb" "noun"}
+press #{"verb" "noun"}
+prevent #{"verb"}
+pure #{"adjective" "adverb" "verb" "noun"}
+queen #{"verb" "noun"}
+rabbit #{"verb" "noun"}
+ranch #{"verb" "noun"}
+realize #{"verb"}
+receive #{"verb" "noun"}
+recently #{"adverb"}
+rice #{"verb" "noun"}
+rising #{"preposition" "adjective" "verb" "noun"}
+rocket #{"verb" "noun"}
+Saturday #{}
+saved #{"adjective" "verb"}
+shade #{"verb" "noun"}
+shadow #{"adjective" "verb" "noun"}
+shirt #{"verb" "noun"}
+shoot #{"verb" "interjection" "noun"}
+shorter #{"adjective" "noun"}
+silence #{"verb" "interjection" "noun"}
+slipped #{"adjective" "verb"}
+Smith #{"verb" "noun"}
+snake #{"verb" "noun"}
+somewhere #{"adverb" "noun"}
+spoken #{"adjective" "verb"}
+standard #{"adjective" "interjection" "noun"}
+straw #{"adjective" "verb" "noun"}
+strip #{"verb" "noun"}
+substance #{"verb" "noun"}
+suggest #{"verb"}
+Sunday #{}
+teach #{"verb" "noun"}
+tears #{"verb" "noun"}
+thirty #{"noun" "numeral"}
+Thomas #{}
+thread #{"verb" "noun"}
+throat #{"verb" "noun"}
+tight #{}
+tin #{"adjective" "verb" "noun"}
+triangle #{"noun"}
+truth #{"verb" "noun"}
+union #{"verb" "noun"}
+warn #{"verb"}
+whispered #{"verb"}
+wool #{"noun"}
+you'd #{}
+1/4 #{}
+aid #{"verb" "noun"}
+aloud #{"adjective" "adverb"}
+Andy #{}
+anyway #{"adverb"}
+arrow #{"verb" "noun"}
+aside #{"adverb" "noun"}
+atomic #{"adjective" "noun"}
+author #{"verb" "noun"}
+basis #{"noun"}
+bean #{"verb" "noun"}
+becoming #{"adjective" "verb" "noun"}
+Betsy #{}
+bicycle #{"verb" "noun"}
+blanket #{"adjective" "verb" "noun"}
+brush #{"verb" "noun"}
+buffalo #{"verb" "noun"}
+burn #{"verb" "noun"}
+burst #{"verb" "noun"}
+bush #{"adjective" "adverb" "verb" "noun"}
+Carlos #{}
+collect #{"adjective" "adverb" "verb" "noun"}
+colony #{"noun"}
+combination #{"noun"}
+combine #{"verb" "noun"}
+comfortable #{"adjective" "noun"}
+complex #{"adjective" "verb" "noun"}
+composed #{"adjective" "verb"}
+concerned #{"adjective" "verb"}
+connected #{"adjective" "verb"}
+construction #{"noun"}
+couple #{"adjective" "verb" "noun"}
+create #{"adjective" "verb"}
+curious #{"adjective"}
+dig #{"verb" "noun"}
+dirt #{"verb" "noun"}
+distant #{"adjective"}
+dot #{"preposition" "verb" "noun"}
+Edward #{}
+elephant #{"noun"}
+etc. #{}
+evidence #{"verb" "noun"}
+examine #{"verb"}
+excellent #{"adjective" "adverb"}
+failed #{"adjective" "verb"}
+fallen #{"adjective" "verb" "noun"}
+fastened #{"verb"}
+feature #{"verb" "noun"}
+fed #{"verb" "noun"}
+gain #{"preposition" "adjective" "adverb" "verb" "noun"}
+graph #{"verb" "noun"}
+hearing #{"adjective" "verb" "noun"}
+highway #{"noun"}
+improve #{"verb"}
+influence #{"verb" "noun"}
+July #{}
+June #{}
+lack #{"verb" "noun"}
+lamp #{"verb" "noun"}
+locate #{"verb"}
+luck #{"verb" "noun"}
+mail #{"verb" "noun"}
+married #{"adjective" "verb" "noun"}
+mighty #{"adjective" "adverb" "noun"}
+mirror #{"verb" "noun"}
+Mississippi #{}
+motor #{"adjective" "verb" "noun"}
+mouse #{"verb" "noun"}
+needle #{"verb" "noun"}
+nodded #{"verb"}
+numeral #{"adjective" "noun"}
+offer #{"verb" "noun"}
+oldest #{"adjective" "noun"}
+operation #{"noun"}
+orbit #{"verb" "noun"}
+organized #{"adjective" "verb"}
+outline #{"verb" "noun"}
+pain #{"verb" "noun"}
+pan #{"adjective" "verb" "noun"}
+pen #{"verb" "noun"}
+piano #{"adjective" "adverb" "noun"}
+pictured #{"adjective" "verb"}
+pig #{"verb" "noun"}
+pile #{"verb" "noun"}
+planning #{"verb" "noun"}
+pony #{"adjective" "verb" "noun"}
+principal #{"adjective" "noun"}
+production #{"noun"}
+refer #{"verb"}
+religious #{"adjective" "noun"}
+repeat #{"verb" "noun"}
+research #{"verb" "noun"}
+respect #{"verb" "interjection" "noun"}
+review #{"verb" "noun"}
+route #{"verb" "noun"}
+silk #{"verb" "noun"}
+slept #{"verb"}
+spite #{"preposition" "verb" "noun"}
+stretch #{"verb" "noun"}
+stronger #{"adjective"}
+stuck #{"adjective" "verb" "noun"}
+swing #{"verb" "noun"}
+task #{"verb" "noun"}
+tax #{"verb" "noun"}
+tea #{"verb" "noun"}
+tent #{"verb" "noun"}
+thee #{"pronoun" "verb" "noun"}
+theory #{"noun"}
+thrown #{"adjective" "verb"}
+tonight #{"adverb" "noun"}
+topic #{"adjective" "noun"}
+tower #{"verb" "noun"}
+transportation #{"noun"}
+trick #{"adjective" "verb" "noun"}
+underline #{"adjective" "verb" "noun"}
+unknown #{"adjective" "verb" "noun"}
+upward #{"adjective" "adverb" "noun"}
+Virginia #{}
+waste #{"adjective" "verb" "noun"}
+we've #{}
+wherever #{"conjunction" "adverb"}
+willing #{"adjective" "verb" "noun"}
+worry #{"verb" "noun"}
+worse #{"adjective" "adverb" "verb" "noun"}
+youth #{"noun"}
+accept #{"adjective" "verb"}
+accident #{"noun"}
+active #{"adjective" "noun"}
+additional #{"adjective" "noun"}
+adjective #{"adjective" "verb" "noun"}
+affect #{"verb" "noun"}
+Alice #{}
+alphabet #{"verb" "noun"}
+announced #{"verb"}
+anybody #{"pronoun"}
+April #{}
+arrange #{"verb"}
+Australia #{}
+aware #{"adjective"}
+badly #{"adjective" "adverb"}
+bee #{"verb" "noun"}
+belt #{"verb" "noun"}
+bite #{"verb" "noun"}
+blind #{"adjective" "adverb" "verb" "noun"}
+bound #{"adjective" "verb" "noun"}
+castle #{"verb" "noun"}
+characteristic #{"adjective" "noun"}
+Columbus #{}
+compass #{"adverb" "verb" "noun"}
+consonant #{"adjective" "noun"}
+curve #{"adjective" "verb" "noun"}
+definition #{"noun"}
+dish #{"verb" "noun"}
+Don #{"verb" "noun"}
+driven #{"adjective" "verb"}
+dug #{"verb" "noun"}
+earn #{"verb" "noun"}
+Eddy #{"verb" "noun"}
+eventually #{"adverb"}
+explore #{"verb" "noun"}
+fairly #{"adverb"}
+fewer #{}
+fifth #{"adjective" "verb" "noun"}
+Florida #{}
+gasoline #{"adjective" "noun"}
+gift #{"verb" "noun"}
+grade #{"verb" "noun"}
+halfway #{"adverb"}
+hang #{"verb" "noun"}
+he'll #{}
+headed #{"adjective" "verb"}
+herd #{"verb" "noun"}
+hollow #{"adjective" "adverb" "verb" "interjection" "noun"}
+income #{"noun"}
+industrial #{"adjective" "noun"}
+introduced #{"adjective" "verb"}
+Johnson #{"noun"}
+Jones #{"verb" "noun"}
+judge #{"verb" "noun"}
+loss #{"noun"}
+lucky #{"adjective"}
+machinery #{"noun"}
+mad #{"adjective" "adverb" "verb"}
+magnet #{"noun"}
+Mars #{"verb" "noun"}
+military #{"adjective" "noun"}
+mistake #{"verb" "noun"}
+mood #{"noun"}
+nails #{"verb" "noun"}
+naturally #{"adverb"}
+negative #{"adjective" "verb" "interjection" "noun"}
+obtain #{"verb"}
+origin #{}
+owner #{}
+passage #{}
+percent #{}
+perfectly #{}
+pilot #{}
+pleasure #{}
+plural #{}
+plus #{}
+poet #{}
+porch #{}
+pot #{}
+powder #{}
+previous #{}
+primitive #{}
+principle #{}
+prize #{}
+purple #{}
+raw #{}
+reader #{}
+remove #{}
+salmon #{}
+screen #{}
+seldom #{}
+select #{}
+society #{}
+somebody #{}
+specific #{}
+spider #{}
+sport #{}
+stairs #{}
+stared #{}
+steep #{}
+stomach #{}
+stove #{}
+stranger #{}
+struggle #{}
+surrounded #{}
+swam #{}
+syllable #{}
+tank #{}
+tape #{}
+thou #{}
+tightly #{}
+Tim #{}
+trace #{}
+tribe #{}
+trunk #{}
+TV #{}
+universe #{}
+visitor #{}
+vote #{}
+weigh #{}
+Wilson #{}
+younger #{}
+zero #{}
+aboard #{}
+accurate #{}
+actual #{}
+adventure #{}
+apartment #{}
+applied #{}
+appropriate #{}
+arrive #{}
+atom #{}
+Bay #{}
+behavior #{}
+bend #{"verb" "noun"}
+bet #{"preposition" "verb" "interjection" "noun"}
+birth #{"adjective" "verb" "noun"}
+brass #{"adjective" "verb" "noun"}
+breathe #{"verb"}
+brief #{"adjective" "adverb" "verb" "noun"}
+buried #{"adjective" "verb"}
+camera #{"noun"}
+captured #{"verb"}
+chamber #{"verb" "noun"}
+command #{"verb" "noun"}
+crack #{"adjective" "verb" "noun"}
+Daniel #{}
+David #{}
+dawn #{"verb" "noun"}
+declared #{"adjective" "verb"}
+diameter #{"noun"}
+difficulty #{"noun"}
+dirty #{"adjective" "adverb" "verb"}
+dull #{"adjective" "verb"}
+duty #{"noun"}
+eager #{"adjective" "noun"}
+eleven #{"noun" "numeral"}
+engineer #{"verb" "noun"}
+equally #{"adverb"}
+equator #{"noun"}
+fierce #{"adjective" "adverb"}
+firm #{"adjective" "verb" "noun"}
+fix #{"verb" "noun"}
+flame #{"adjective" "verb" "noun"}
+former #{"adjective" "noun"}
+forty #{"noun" "numeral"}
+fox #{"verb" "noun"}
+Fred #{}
+frog #{"verb" "noun"}
+fully #{"adverb"}
+goose #{"verb" "noun"}
+gravity #{"noun"}
+Greece #{}
+guard #{"verb" "noun"}
+gulf #{"verb" "noun"}
+handsome #{"adjective" "verb"}
+harbor #{"verb" "noun"}
+hay #{"verb" "noun"}
+hello #{"verb" "interjection" "noun"}
+horn #{"verb" "noun"}
+hospital #{"adjective" "noun"}
+ill #{"adjective" "adverb" "noun"}
+interior #{"adjective" "noun"}
+Jeff #{}
+jungle #{"adjective" "noun"}
+labor #{"verb" "noun"}
+limited #{"adjective" "verb" "noun"}
+location #{"noun"}
+mainly #{"adverb"}
+managed #{"verb"}
+Maria #{"noun"}
+mental #{"adjective" "noun"}
+mixture #{"noun"}
+movie #{"noun"}
+nearer #{"preposition" "adjective"}
+nervous #{"adjective"}
+noted #{"adjective" "verb"}
+October #{}
+officer #{"verb" "noun"}
+Ohio #{}
+opinion #{"verb" "noun"}
+opportunity #{"noun"}
+organization #{"noun"}
+package #{"verb" "noun"}
+pale #{"adjective" "verb" "noun"}
+plastic #{"adjective" "noun"}
+Pole #{"verb" "noun"}
+port #{"adjective" "verb" "noun"}
+pour #{"verb" "noun"}
+private #{"adjective" "noun"}
+properly #{"adverb"}
+protection #{"noun"}
+pupil #{"noun"}
+rear #{"adjective" "adverb" "verb" "noun"}
+refused #{"verb"}
+roar #{"verb" "noun"}
+Rome #{}
+Russia #{}
+Russian #{}
+saddle #{"verb" "noun"}
+settle #{"verb" "noun"}
+shelf #{"noun"}
+shelter #{"verb" "noun"}
+shine #{"verb" "noun"}
+sink #{"verb" "noun"}
+slabs #{"noun"}
+slave #{"verb" "noun"}
+somehow #{"adverb"}
+split #{"adjective" "verb" "noun"}
+stems #{"verb" "noun"}
+stock #{"adjective" "verb" "noun"}
+swept #{"verb"}
+thy #{"conjunction"}
+tide #{"verb" "noun"}
+torn #{"verb"}
+troops #{"verb" "noun"}
+tropical #{"adjective" "noun"}
+typical #{"adjective" "noun"}
+unhappy #{"adjective" "noun"}
+vertical #{"adjective" "noun"}
+victory #{"verb" "noun"}
+voyage #{"verb" "noun"}
+welcome #{"adjective" "verb" "interjection" "noun"}
+weren't #{}
+whistle #{"verb" "noun"}
+widely #{"adverb"}
+worried #{"adjective" "verb"}
+wrapped #{"adjective" "verb"}
+writer #{"noun"}
+acres #{"noun"}
+adult #{"adjective" "verb" "noun"}
+advice #{"noun"}
+arrangement #{"noun"}
+attempt #{"verb" "noun"}
+August #{"adjective" "verb" "noun"}
+Autumn #{"adjective" "noun"}
+border #{"verb" "noun"}
+breeze #{"verb" "noun"}
+brick #{"adjective" "verb" "noun"}
+calm #{"adjective" "verb" "noun"}
+canal #{"verb" "noun"}
+Casey #{}
+cast #{"verb" "noun"}
+chose #{"verb" "noun"}
+claws #{"verb" "noun"}
+coach #{"verb" "noun"}
+constantly #{"adverb"}
+contrast #{"verb" "noun"}
+cookies #{"verb" "noun"}
+customs #{"verb" "noun"}
+damage #{"verb" "noun"}
+Danny #{}
+deeply #{"adverb"}
+depth #{"noun"}
+discussion #{"noun"}
+doll #{"noun"}
+donkey #{"noun"}
+Egypt #{}
+Ellen #{}
+essential #{"adjective" "noun"}
+exchange #{"verb" "noun"}
+exist #{"verb"}
+explanation #{"noun"}
+facing #{"adjective" "verb" "noun"}
+film #{"verb" "noun"}
+finest #{"adjective" "noun"}
+fireplace #{"noun"}
+floating #{"adjective" "verb" "noun"}
+folks #{"noun"}
+fort #{"verb" "noun"}
+garage #{"verb" "noun"}
+grabbed #{"verb"}
+grandmother #{"noun"}
+habit #{"verb" "noun"}
+happily #{"adverb"}
+Harry #{"verb"}
+heading #{"verb" "noun"}
+hunter #{"noun"}
+Illinois #{}
+image #{"verb" "noun"}
+independent #{"adjective" "noun"}
+instant #{"adjective" "adverb" "noun"}
+January #{}
+kids #{"verb" "noun"}
+label #{"verb" "noun"}
+Lee #{"adjective" "noun"}
+lungs #{"noun"}
+manufacturing #{"adjective" "verb" "noun"}
+Martin #{"noun"}
+mathematics #{"noun"}
+melted #{"adjective" "verb"}
+memory #{"noun"}
+mill #{"verb" "noun"}
+mission #{"verb" "noun"}
+monkey #{"verb" "noun"}
+Mount #{"verb" "noun"}
+mysterious #{"adjective"}
+neighborhood #{"noun"}
+Norway #{}
+nuts #{"adjective" "verb" "interjection" "noun"}
+occasionally #{"adverb"}
+official #{"adjective" "noun"}
+ourselves #{"pronoun"}
+palace #{"verb" "noun"}
+Pennsylvania #{}
+Philadelphia #{}
+plates #{"verb" "noun"}
+poetry #{"noun"}
+policeman #{"noun"}
+positive #{"adjective" "noun"}
+possibly #{"adverb"}
+practical #{"adjective" "noun"}
+pride #{"verb" "noun"}
+promised #{"adjective" "verb"}
+recall #{"verb" "noun"}
+relationship #{"noun"}
+remarkable #{"adjective"}
+require #{"verb"}
+rhyme #{"verb" "noun"}
+rocky #{"adjective"}
+rubbed #{"adjective" "verb"}
+rush #{"adjective" "verb" "noun"}
+sale #{"noun"}
+satellites #{"verb" "noun"}
+satisfied #{"adjective" "verb"}
+scared #{"adjective" "verb"}
+selection #{"noun"}
+shake #{"verb" "noun"}
+shaking #{"verb" "noun"}
+shallow #{"adjective" "verb" "noun"}
+shout #{"verb" "noun"}
+silly #{"adjective" "adverb" "noun"}
+simplest #{"adjective"}
+slight #{"adjective" "verb" "noun"}
+slip #{"verb" "noun"}
+slope #{"adjective" "adverb" "verb" "noun"}
+soap #{"verb" "noun"}
+solar #{"adjective" "noun"}
+species #{"noun"}
+spin #{"verb" "noun"}
+stiff #{"adjective" "verb" "noun"}
+swung #{"verb"}
+tales #{"noun"}
+thumb #{"verb" "noun"}
+tobacco #{"verb" "noun"}
+toy #{"verb" "noun"}
+trap #{"verb" "noun"}
+treated #{"verb"}
+tune #{"verb" "interjection" "noun"}
+University #{"noun"}
+vapor #{"verb" "noun"}
+vessels #{"verb" "noun"}
+wealth #{"noun"}
+wolf #{"verb" "noun"}
+zoo #{"noun"}
